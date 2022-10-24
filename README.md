@@ -1,2 +1,2 @@
-# SDL Graphics Engine testing project
-Testing out SDL
+# SDL Boilerplate
+Boilerplate project for new SDL projects
